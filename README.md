@@ -20,14 +20,14 @@ Este projeto implementa um sistema simples para gerenciar informações de veíc
 *(Ajuste conforme os detalhes reais do seu projeto.)*
 
 ## Estrutura típica de diretórios
-
+```
 ProjetoCarro/
 ├── src/ # Código-fonte em Java
 ├── data/ # Dados persistidos (se aplicável)
 ├── lib/ # Bibliotecas necessárias (se houver)
 ├── README.md # Este arquivo
 └── LICENSE # Licença MIT
-
+```
 ## Como executar
 
 1. Clonar o repositório:  
@@ -42,11 +42,12 @@ Ou via linha de comando:
 ```
 javac src/**/*.java
 java -cp src nome.da.classe.Principal
+```
 
-Contribuição
+## Contribuição
 Contribuições são bem-vindas! Para colaborar:
 
-Fork do repositório.
+## Fork do repositório.
 
 Criar branch para sua feature ou correção (git checkout -b minha-feature).
 
@@ -56,5 +57,5 @@ Fazer push para sua branch (git push origin minha-feature).
 
 Abrir um Pull Request para revisão.
 
-Licença
+## Licença
 Este projeto está licenciado sob a MIT License. Confira o arquivo LICENSE para mais detalhes.
